@@ -47,3 +47,28 @@ padding: 0;
 }
 
 
+/* ------------------------------------------- Web Shop */
+
+.web-shop{
+    padding: 100px 0;
+}
+
+.store-container{
+    display: flex;
+}
+
+.store-img-container {
+    
+    
+}
+.store-img{
+    width: 25%;
+    min-width: 150px;
+}
+
+/* ---------------------------------------------- Footer */
+
+.form-socials{
+    background-color: blueviolet;
+    padding: 100px;
+}
