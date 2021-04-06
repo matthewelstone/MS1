@@ -2,3 +2,30 @@
 margin: 0;
 padding: 0;
 }
+div{
+    display: block;
+}
+
+.meandthemoon-logo{
+    background-image: url(./assets/images/Logo.png) no-repeat center center;
+
+
+}
+
+.callout-container{
+    height: 100vh;
+    padding: 0;
+    background-image: url(./assets/images/Picture3.jpg) no-repeat bottom right fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+
+}
