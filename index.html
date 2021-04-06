@@ -12,9 +12,9 @@
 
 </head>
 <body>
-<nav class="navbar navbar-dark bg-dark navbar-expand-sm uppercase">
-    <a href="index.html" class="navbar-brand fixed">
-        <img class="logo-image" src="/assets/images/Logo2.png" alt="ME AND THE MOON">
+<nav class="navbar navbar-dark bg-dark navbar-expand-sm uppercase fixed">
+    <a href="index.html" class="navbar-brand">
+        <img class="logo-image" src="/assets/images/logo.png" alt="ME AND THE MOON">
     </a>
     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbardropdownmenu"
     aria-controls="navbardropdownmenu" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,7 +42,7 @@
             <div class="row">
                 <div class="col-12">
                     <section class="jumbotron callout text-center uppercase">
-
+                        <img src="/assets/images/Mini Logo.png" alt="" class="mini-logo">
                         <h2>new album "It's alright" out now</h2>
                         <button type="button" class="btn btn-secondary listen-btn">Listen Here!</button>
 
@@ -51,17 +51,21 @@
             </div>
     </div>
     <div class="row">
-        <div class="col-sm-12 col-md-6 embedded-videos">
-            <iframe width="100%" height="300px" src="https://www.youtube.com/embed/EgcJH64OY8o"
-             title="YouTube video player" frameborder="0"
-             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe>
+        <div class="col-sm-12 col-md-6">
+            <div class="embedded-videos">
+                <iframe width="100%" height="300px" src="https://www.youtube.com/embed/EgcJH64OY8o"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            </div>
         </div>
-        <div class="col-sm-12 d-none d-md-block col-md-6 embedded-videos">
-            <iframe width="100%" height="300px" src="https://www.youtube.com/embed/EgcJH64OY8o"
-             title="YouTube video player" frameborder="0"
-             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe>
+        <div class="col-sm-12 d-none d-md-block col-md-6">
+            <div class="embedded-videos">
+                <iframe width="100%" height="300px" src="https://www.youtube.com/embed/buw7It4BeLc"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+                </div>
         </div>
 
     </div>
@@ -70,19 +74,17 @@
             <h2>Web Shop</h2>
             <div class="row">
                 <div class="store-container">
-                        <div class="col-sm-4 col-md-3 store-img-container">
+                        <div class="col-xs-6 col-sm-4 col-md-3 store-img-container">
                             <a href="#" target="_blank">    
                                 <img src="/assets/images/BlackMATMtee.png" alt="Black Me and the Moon tee" class="store-img">
                             </a>
                         </div>
-                        <div class="col-sm-4 col-md-3 store-img-container">
+                        <div class=" col-xs-6 col-sm-4 col-md-3 store-img-container">
                             <a href="#" target="_blank">
-                            
                                 <img src="/assets/images/MATMpalmtee.png" alt="Black Me and the Moon tee" class="store-img">
-                            
                             </a>
                         </div>
-                        <div class="col-sm-4 col-md-3 store-img-container">
+                        <div class="d-none d-sm-block col-sm-4 col-md-3 store-img-container">
                             <a href="#" target="_blank">  
                                 <img src="/assets/images/MATMteetowel.png" alt="Black Me and the Moon tee" class="store-img">
                             </a>
@@ -95,8 +97,7 @@
                     </div>
                 </div>    
             </section>
-        </div>
-    </div>
+        
    
     <footer class="form-socials">
         <div class="text-center">
@@ -104,9 +105,9 @@
         
             <form action="" method="POST">
 
-                <input type="text" name="full-name" placeholder="Name" required>
-                <input type="email" name="email-address" placeholder="E-mail Address" required>
-                <input type="submit" value="Subscribe" name="subscribe" class="button">
+                <input type="text" name="full-name" placeholder="Name" required class="text-input form-field"><br>
+                <input type="email" name="email-address" placeholder="E-mail Address" required class="email-input form-field"><br>
+                <input type="submit" value="Subscribe" name="subscribe" class="button subscribe-button form-field">
         
             </form>
         </div>
