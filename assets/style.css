@@ -12,9 +12,8 @@ body{
 .uppercase{
     text-transform: uppercase;
 }
-.subheading{
-    font-family: 'Quicksand', sans-serif;
-}
+
+
 
 /* --------------------------------------------------- Navbar */
 .navbar{
@@ -132,4 +131,25 @@ body{
 .subscribe-button{
     color: #FFF3ED;
     background-color: #47706C ;
+}
+.social-link{
+    padding: 20px;
+    font-size: 20px;
+    color: #47706C;
+    }
+
+
+.social-link i:hover{
+    color: rgba(0,0,0,0.75)
+    
+}
+
+
+
+
+/* -------------------------------------- About */
+
+.about-image-container{
+    max-height: 600px;
+    position: absolute;
 }
