@@ -17,7 +17,7 @@ body{
 
 /* --------------------------------------------------- Navbar */
 .navbar{
-    position:fixed;
+    
     top: 0;
     z-index: 2;
     width: 100%;
@@ -56,12 +56,15 @@ body{
     align-items: center;
     justify-content: center;
     position: relative;
-    top: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
     
 }
 .jumbotron{
     background-color: rgba(0,0,0,0);
     color: #FFF3ED;
+    
 }
 .mini-logo{
     filter:invert(1);
@@ -75,6 +78,8 @@ body{
     justify-content: center;
     background-color: #8A7A72;
     border-color: #8A7A72;
+    border-radius: 50%;
+    
 }
 /* ------------------------------------------- Videos  */
 
@@ -93,10 +98,8 @@ body{
     background-color: #8A7A72;
     color: #9DBDB9
 }
-.webshop h2{
-    padding-bottom: 50px;
-    font-family: 'Quicksand', sans-serif;
-
+.webshop-subheading{
+    padding-bottom: 75px;
 
 }
 
@@ -130,18 +133,33 @@ body{
 }
 .subscribe-button{
     color: #FFF3ED;
-    background-color: #47706C ;
+    background-color: #47706C;
+    transition: 0.35s;
 }
+
+.subscribe-button:hover{
+    background-color: rgba(0,0,0,0.75);
+}
+
+
 .social-link{
-    padding: 20px;
+    padding: 20px 15px;
     font-size: 20px;
     color: #47706C;
+    transition: 0.35s;
     }
 
 
-.social-link i:hover{
-    color: rgba(0,0,0,0.75)
-    
+.social-link:hover,
+.contact-info:hover{
+    color: rgba(0,0,0,0.75);
+    text-decoration: none;
+}
+
+
+.contact-info{
+    color: #47706c;
+    transition: 0.35s;
 }
 
 
@@ -150,6 +168,7 @@ body{
 /* -------------------------------------- About */
 
 .about-image-container{
-    max-height: 600px;
-    position: absolute;
+    width: 40%;
+    padding: 30px;
+    float: left;
 }
