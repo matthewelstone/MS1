@@ -54,11 +54,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    position: absolute;
+    position: justified;
     margin-top: 20px;
     margin-bottom: 20px;
-    
-    
 }
 .jumbotron{
     background-color: rgba(0,0,0,0);
