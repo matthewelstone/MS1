@@ -165,12 +165,11 @@ body{
 /* -------------------------------------- About */
 
 .about-image-container img{
-    padding-top: 50px;
-    padding-left: 25px;
+    padding: 50px 25px; 
     width: 100%;
     display: flex;
 }
 .about-info-container{
-    padding: 50px;
-    justify-content: center;
+    padding: 50px 25px;
+    text-align: center;
 }
