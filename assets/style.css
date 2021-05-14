@@ -6,7 +6,7 @@ padding: 0;
 body{
     background-color: #bda79d;
     color: #47706C;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Quicksand' sans-serif;
 }
 
 .uppercase{
@@ -70,6 +70,7 @@ body{
 }
 
 .listen-btn{
+    font-family: "quicksand", sans-serif;
     margin-top: 50px;
     position: center;
     justify-content: center;
@@ -164,6 +165,10 @@ body{
 
 /* -------------------------------------- About */
 
+.about-subheading{
+    padding-top: 25px;
+}
+
 .about-image-container img{
     padding: 50px 25px; 
     width: 100%;
@@ -194,3 +199,7 @@ body{
     position: center;
 }
 
+/* -------------------------------------Gallery */
+.gallery-subheading{
+
+}
