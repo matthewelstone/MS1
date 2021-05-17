@@ -205,6 +205,19 @@ body{
 }
 
 /* -------------------------------------Gallery */
-.gallery-subheading{
+.gallery-subheading{ 
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
 
+.img-container img{
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    border-radius: 15%;
+}
+.img-container{
+    
+    
+  
 }
