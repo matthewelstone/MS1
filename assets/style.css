@@ -75,8 +75,10 @@ body{
     justify-content: center;
     background-color: #8A7A72;
     border-color: #8A7A72;
+    color: #FFF3ED;
 }
-.preorder-btn:hover{
+.preorder-btn:hover,
+.preorder-btn:active{
     background-color: #D4D2D2;
     border-color: #D4D2D2;
     color: #000;
@@ -211,6 +213,7 @@ body{
     position: center;
     background-color: #878272;
     border-color: #878272;
+    color: #FFF3ED;
 }
 .btn-tickets:hover{
     background-color: #D4D2D2;
