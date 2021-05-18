@@ -69,13 +69,17 @@ body{
     margin-bottom: 75px;
 }
 
-.listen-btn{
-    font-family: "quicksand", sans-serif;
+.preorder-btn{
     margin-top: 50px;
     position: center;
     justify-content: center;
     background-color: #8A7A72;
     border-color: #8A7A72;
+}
+.preorder-btn:hover{
+    background-color: #D4D2D2;
+    border-color: #D4D2D2;
+    color: #000;
 }
 
 
