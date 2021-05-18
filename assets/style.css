@@ -4,8 +4,8 @@ padding: 0;
 }
 
 body{
-    background-color: #bda79d;
-    color: #47706C;
+    background-color: #c6ced3;
+    color: #000;
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -20,7 +20,7 @@ body{
     
     top: 0;
     width: 100%;
-    background-color: #47706C;
+    background-color: #878272;
 }
 .nav-link{
     color: #FFF3ED;
@@ -93,8 +93,8 @@ body{
 
 .web-shop{
     padding: 75px 0;
-    background-color: #8a7a72a7;
-    color: #47706C
+    background-color: #878272;
+    color: #FFF3ED;
 }
 .webshop-subheading{
     padding-bottom: 75px;
@@ -115,7 +115,7 @@ body{
 /* ---------------------------------------------- Footer */
 
 .form-socials{
-    background-color: #FFF3ED;
+    background-color: #D4D2D2;
     padding-top: 75px;
     padding-bottom: 100px;
 }
@@ -127,11 +127,11 @@ body{
     width: 66%;
 }
 .email-input .name-input{
-    color: #47706C;
+    color: #878272;
 }
 .subscribe-button{
     color: #FFF3ED;
-    background-color: #47706C;
+    background-color: #878272;
     transition: 0.35s;
 }
 
@@ -143,7 +143,7 @@ body{
 .social-link{
     padding: 20px 15px;
     font-size: 20px;
-    color: #47706C;
+    color: #878272;
     transition: 0.35s;
     }
 
@@ -156,8 +156,11 @@ body{
 
 
 .contact-info{
-    color: #47706c;
+    color: #878272;
     transition: 0.35s;
+}
+.contact{
+    color: #878272;
 }
 
 
@@ -188,7 +191,7 @@ body{
 .ticket-box{
     margin: 30px 15px 10px 15px;
     margin-right: 10px;
-    border: #47706C solid 3px;
+    border: #000 solid 3px;
     padding: 10px;
 }
 
@@ -202,7 +205,14 @@ body{
     float: right;
     margin-right: 15px;
     position: center;
+    background-color: #878272;
+    border-color: #878272;
 }
+.btn-tickets:hover{
+    background-color: #D4D2D2;
+    color: #000;
+}
+
 
 /* -------------------------------------Gallery */
 .gallery-subheading{ 
@@ -215,9 +225,4 @@ body{
     padding: 15px;
     display: flex;
     border-radius: 15%;
-}
-.img-container{
-
-    
-  
 }
