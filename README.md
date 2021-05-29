@@ -40,14 +40,19 @@ I want to create a website for fans and potential fans of my brothers band Me an
   2. As a first time visitor, I want to be able to easily navigate through the site and find the content I need.
   3. As a first time visitor, I want the site to be visually apealing.
   4. As a first time visitor, I expect the site to be responsive so that I can view it on any device type. 
-  5. As a first time visitor, I want to find 
+  5. As a first time visitor, I want to be able to tell who the band are and decide if i might like them. 
 
 - **Returning Visitor Goals**
-  1. As a returning visitor, I want to be able to see the latest music that the band has released.
+  1. As a returning visitor, I want to be able to see the latest music or video content that the band has released.
   2. As a returning visitor, I want to be able to see where and when the band are playing so that I can book tickets.
   3. As a returning visitor, I would like to find out more information about the members and history of the band. 
   4. As a returning visitor, I would like to see any social media accounts the band has so that I can follow them there. 
+  5. As a returning visitor, I would like to see any pictures of the of the band. 
 - **Frequent Visitor Goals.**
+  1. As a frequent visitor, I want to see the latest music or video content that the band has released. 
+  2. As a frequent visitor, I would like to be kept up to date with any news about the band.
+  3. As a frequent visitor, I would like to be able to contact the band to book them for events.
+
 
 
 
