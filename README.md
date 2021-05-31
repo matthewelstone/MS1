@@ -51,7 +51,18 @@ I want to create a website for fans and potential fans of my brothers band Me an
 - **Frequent Visitor Goals.**
   1. As a frequent visitor, I want to see the latest music or video content that the band has released. 
   2. As a frequent visitor, I would like to be kept up to date with any news about the band.
-  3. As a frequent visitor, I would like to be able to contact the band to book them for events.
+  3. As a frequent visitor, I would like to be able to contact the band for any gigs or events.
+
+### Owner Goals
+  1. I want the site to clearly promote the band.
+  2. I want users to easily find links to social media accounts.
+  3. I want the user to easily be able to find when and where they can see the band live.
+  4. I want to promote the latest videos of the band. 
+  5. I want the site to be responsive and easy to navigate. 
+  6. I want the site to be attractive.
+  7. I want users to easily be able to contact the band. 
+
+  ### Design
 
 
 
