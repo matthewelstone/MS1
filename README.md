@@ -67,10 +67,22 @@ I want to create a website for fans and potential fans of my brothers band Me an
 
 I wanted the design of the website to fit in with many of the bands existing promotional material.Using colors and fonts to compliment them. I wanted each page to be easy to navigate and to work semelessly with each other using the same colour combinations but in slightly different formats. 
 
--  Colour scheme
-I Picked the colour scheme by using a digital colour meter on the background of the Main image of the Index page.  I then entered that colour (#c6ced3) into the Adobe color wheel on the split complimentary setting. 
+- ### Colour scheme
+
+  - I Picked the colour scheme by using a digital colour meter on the background of the Main image of the Index page.  I then entered that colour (#c6ced3) into the Adobe color wheel on the split complimentary setting. 
 
 <img src="assets/readmeimages/Colour-Palette.png" width="600" height="100">
+
+- ### Typography
+  - I only used one font throughout the website which is Quicksand from Google Fonts with a backup font of sans-serif if for some reason Quicksand doesnt load. I chose quicksand for the site because it is a complimentary font to the bands logos font with it looking quite similar but is easier to read in larger blocks of text. 
+
+- ### Imigary
+  - All of the images that I used were sent to be by the band and were used to enhance the visual aspect of the page. 
+
+- ### Wireframes
+
+I made all of my wireframes using Balsamiq. 
+
 
 
 
