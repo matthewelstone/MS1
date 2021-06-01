@@ -81,9 +81,11 @@ I wanted the design of the website to fit in with many of the bands existing pro
 
 - ### Wireframes
 
-I made all of my wireframes using Balsamiq. Making one for each page showing how the page would change for each screen size.  
+I made all of my wireframes using Balsamiq. Making one for each page showing how the page would change for each screen size. 
 
-<img src="assets/readmeimages/index.png" width="700" height="400">
+  - Index
+[Mobile](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/index-mobile.png) [Tablet](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/index-tablet.png) [Web](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/index-web.png)
+<img src="assets/readmeimages/index.png" width="700" height="350">
 
 
 
