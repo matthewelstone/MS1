@@ -81,8 +81,9 @@ I wanted the design of the website to fit in with many of the bands existing pro
 
 - ### Wireframes
 
-I made all of my wireframes using Balsamiq. 
+I made all of my wireframes using Balsamiq. Making one for each page showing how the page would change for each screen size.  
 
+<img src="assets/readmeimages/index.png" width="700" height="400">
 
 
 
