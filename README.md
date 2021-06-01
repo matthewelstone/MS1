@@ -54,6 +54,7 @@ I want to create a website for fans and potential fans of my brothers band Me an
   3. As a frequent visitor, I would like to be able to contact the band for any gigs or events.
 
 ### Owner Goals
+- 
   1. I want the site to clearly promote the band.
   2. I want users to easily find links to social media accounts.
   3. I want the user to easily be able to find when and where they can see the band live.
@@ -64,6 +65,12 @@ I want to create a website for fans and potential fans of my brothers band Me an
 
   ### Design
 
+I wanted the design of the website to fit in with many of the bands existing promotional material.Using colors and fonts to compliment them. I wanted each page to be easy to navigate and to work semelessly with each other using the same colour combinations but in slightly different formats. 
+
+-  Colour scheme
+I Picked the colour scheme by using a digital colour meter on the background of the Main image of the Index page.  I then entered that colour (#c6ced3) into the Adobe color wheel on the split complimentary setting. 
+
+![](assets/readmeimages/colour%20pallet.png)
 
 
 
