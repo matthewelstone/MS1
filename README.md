@@ -87,8 +87,17 @@ I made all of my wireframes using Balsamiq. Making one for each page showing how
 [Mobile](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/index-mobile.png) [Tablet](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/index-tablet.png) [Web](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/index-web.png)
 <img src="assets/readmeimages/index.png" width="700" height="350">
 
+- About
+[Mobile](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/about-mobile.png) [Tablet](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/about-tablet.png) [Web](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/about-web.png)
+<img src="assets/readmeimages/about.png" width="700" height="350">
 
+- Gallery
+[Mobile](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/gallery-mobile.png) [Tablet](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/gallery-tablet.png) [Web](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/gallery-web.png)
+<img src="assets/readmeimages/gallery.png" width="700" height="350">
 
+- Tickets
+[Mobile](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/tickets-mobile.png) [Tablet](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/tickets-tablet.png) [Web](https://github.com/matthewelstone/MeAndTheMoon/blob/master/assets/readmeimages/tickets-web.png)
+<img src="assets/readmeimages/tickets.png" width="700" height="350">
 
 
 
