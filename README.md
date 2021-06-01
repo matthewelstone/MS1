@@ -70,7 +70,8 @@ I wanted the design of the website to fit in with many of the bands existing pro
 -  Colour scheme
 I Picked the colour scheme by using a digital colour meter on the background of the Main image of the Index page.  I then entered that colour (#c6ced3) into the Adobe color wheel on the split complimentary setting. 
 
-![](assets/readmeimages/colour%20pallet.png)
+<img src="assets/readmeimages/colour palette.png" width="600" height="100">
+
 
 
 
