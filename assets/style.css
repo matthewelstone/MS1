@@ -223,11 +223,17 @@ body{
     position: center;
     background-color: #878272;
     border-color: #878272;
-    color: #FFF3ED;
 }
 .btn-tickets:hover{
     background-color: #D4D2D2;
     color: #000;
+}
+
+.btn-tickets a{
+    color:#FFF3ED;
+}
+.btn-tickets a:hover{
+    text-decoration: none;
 }
 
 
