@@ -158,3 +158,12 @@ Am I Responsive was used for the Image at the top of the readme.
 Mostly my HTML was okay and it only came up with a few problems.  I had buttons on two of the pages which were siblings of anchor tags. I fixed these by giving the anchor tags classes which were the same as the buttons and deleating the buttons.
 The YouTube links that I have embedded in the index.html page also failed as they had inline styling. I fixed this by giving them a class and styling them there. 
 The last thing was my form.  Emmet had given it an empty action attribute and as the form will not actually be posting anywhere I got rid of that. 
+
+<img src="assets/readmeimages/index-validation.png" width="700" height="350">
+<img src="assets/readmeimages/about-validation.png" width="700" height="350">
+<img src="assets/readmeimages/gallery-validation.png" width="700" height="350">
+<img src="assets/readmeimages/tickets-validation.png" width="700" height="350">
+
+My CSS was also mostly fine. I only needed to get rid of a couple of lines of code which weren't correct. 
+<img src="assets/readmeimages/css-validation.png" width="700" height="350">
+
