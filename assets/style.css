@@ -226,7 +226,6 @@ body{
 }
 .btn-tickets:hover{
     background-color: #D4D2D2;
-    color: #000;
 }
 
 .btn-tickets a{
@@ -234,6 +233,7 @@ body{
 }
 .btn-tickets a:hover{
     text-decoration: none;
+    color: #000;
 }
 
 
