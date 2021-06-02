@@ -88,11 +88,21 @@ body{
 /* ------------------------------------------- Videos  */
 
 .embedded-videos{
+    position: relative;
+    overflow: hidden;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-left: 10px;
-    margin-right: 10px
-
+    margin-right: 10px;
+}
+.videos{
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 300px;
+    width:100%;
+    border: 0;
 }
 
 /* ------------------------------------------- Web Shop */
