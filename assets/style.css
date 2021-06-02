@@ -228,10 +228,10 @@ body{
     background-color: #D4D2D2;
 }
 
-.btn-tickets a{
+.btn-tickets > a{
     color:#FFF3ED;
 }
-.btn-tickets a:hover{
+.btn-tickets > a:hover{
     text-decoration: none;
     color: #000;
 }
