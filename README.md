@@ -118,21 +118,33 @@ For the most part I kept the design of the website very similar to the wireframe
 
 ### Technologies Used
 ## Languages Used
-[HTML5](https://en.wikipedia.org/wiki/HTML5)
-[CSS3](https://en.wikipedia.org/wiki/CSS)
+1. [HTML5](https://en.wikipedia.org/wiki/HTML5)
+2. [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Frameworks, Libraries, Programs Used
 1. [Bootstrap v4.6.0](https://getbootstrap.com/)
-
+Bootstrap was used for the responsive layout of the site before styling it.
 2. [Google Fonts](https://fonts.google.com/)
+Google fonts was used throughout the site to import the Quicksand font.
 3. [Git](https://git-scm.com/)
+Git was used as a version control software.
 4. [GitHub](https://github.com/)
+Github was used as a remote repository where I pushed changes to and also to deploy the site with github pages.
 5. [GitPod](https://www.gitpod.io/)
+Gitpod was the text editor that I used to write the HTML and CSS in up untill its latest update. When it updated I found that the changes I made to the code took too long to apply to the site.
 6. [Visual Studio Code](https://code.visualstudio.com/)
+Visual Studio Code was the text editor that I used to write the rest of the HTML and CSS.
 7. [Font Awesome](https://fontawesome.com/)
+Font awesome was used for the social media icons and burger icon on the site.
 8. [Balsamiq](https://balsamiq.com/)
+Balsamiq was used to make the wireframes
 9. [TinyPNG](https://tinypng.com/)
+TinyPNG was used to compress the images down to a smaller size so that the webpages could load much faster.
 10. [Chrome Devtools](https://developer.chrome.com/docs/devtools/)
-11. [Am I Responsive](http://ami.responsivedesign.is/) 
+Chrome Devtools helped me to style thge site, fix any bugs that I found and test the performance of the site through lighthouse.
+11. [Am I Responsive](http://ami.responsivedesign.is/)
+Am I Responsive was used for the Image at the top of the readme.
+
+
 
 
