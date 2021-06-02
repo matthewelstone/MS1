@@ -48,13 +48,9 @@ body{
     padding-top: 0;
     background: url(../assets/images/Newmatmimage.jpeg) no-repeat top center fixed;
     background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
-    position: justified;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -71,7 +67,6 @@ body{
 
 .preorder-btn{
     margin-top: 50px;
-    position: center;
     justify-content: center;
     background-color: #8A7A72;
     border-color: #8A7A72;
@@ -80,7 +75,7 @@ body{
 .preorder-btn:hover,
 .preorder-btn:active{
     background-color: #D4D2D2;
-    border-color: #D4D2D2;
+    border: none;
     color: #000;
 }
 
@@ -220,9 +215,8 @@ body{
 .btn-tickets{
     float: right;
     margin-right: 15px;
-    position: center;
     background-color: #878272;
-    border-color: #878272;
+    border: none;
     color: #FFF3ED;
 }
 .btn-tickets:hover{
