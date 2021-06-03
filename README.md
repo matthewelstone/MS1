@@ -153,6 +153,53 @@ Am I Responsive was used for the Image at the top of the readme.
 
 ## Testing 
 
+### Testing User Stories and Site Goals
+
+### First Time Visitor Goals
+
+**As a first time visitor, I want to easily understand main purpose of the site.** 
+As you enter the site on the Jumbotron there is a clear image of the band.  you can tell that they are a band as one of them is holding a guitar and overlaying this there is a preorder now button. 
+
+**As a first time visitor, I want to be able to easily navigate through the site and find the content I need.**
+There is a nav menu at the top of all pages making it easy to navigete.  The bands logo in the top left corner will also link you back to the homepage.
+
+**As a first time visitor, I want the site to be visually apealing.**
+I have asked friends family and members on slack about the site and overall the response to the site was very good. With a consistent colour scheme and high quality pictures too.
+**As a first time visitor, I expect the site to be responsive so that I can view it on any device type.**
+I have tested the site on multiple devices and everything responds well.  I have also sent the site to friends and family asking them to find any thing.
+**As a first time visitor, I want to be able to tell who the band are and decide if i might like them.**
+There is an about section to the site which tells you more about the band and also embededvideos to listen to the music to help decide if you might like the band.
+
+### Returning Visitor Goals
+
+**As a returning visitor, I want to be able to see the latest music or video content that the band has released.**
+You can see 
+**As a returning visitor, I want to be able to see where and when the band are playing so that I can book tickets.**
+There is a tickets page where you can see all the latest shows and will be sent to where you can buy them from.
+
+**As a returning visitor, I would like to find out more information about the members and history of the band.**
+
+**As a returning visitor, I would like to see any social media accounts the band has so that I can follow them there.**
+
+**As a returning visitor, I would like to see any pictures of the of the band.**
+
+### Frequent Visitor Goals.
+
+**As a frequent visitor, I want to see the latest music or video content that the band has released.**
+
+**As a frequent visitor, I would like to be kept up to date with any news about the band.**
+
+**As a frequent visitor, I would like to be able to contact the band for any gigs or events.**
+
+### Owner Goals
+**I want the site to clearly promote the band.**
+**I want users to easily find links to social media accounts.**
+**I want the user to easily be able to find when and where they can see the band live.**
+**I want to promote the latest videos of the band.**
+**I want the site to be responsive and easy to navigate.**
+**I want the site to be attractive.**
+**I want users to easily be able to contact the band.**
+
 ### HTML and CSS Testing
 
 - HTML and CSS 
