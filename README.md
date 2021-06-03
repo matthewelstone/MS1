@@ -9,28 +9,29 @@ I want to create a website for fans and potential fans of my brothers band Me an
 
 ## Contents
 
-- User Expreience
+- [User Expreience](#user-experience)
 
-  - User Stories
-  - Owner Goals
-  - Design
+  - [User Stories](#user-stories)
+  - [Owner Goals](#owner-goals)
+  - [Design](#design)
 
-- Features
+- [Features](#features)
    
-  - Current Features
-  - Features which I want to implement in the future
+  - [Current Features](#current-features)
+  - [Features which I want to implement in the future](#Features-which-i-want-to-implement-in-the-future)
 
-- Technologies Used
+- [Technologies Used](#technologies-used)
 
-- Testing
-  - Testing User Stories and Site Goals
-  - Lighthouse Testing
-  - HTML and CSS Testing
-  - Known Bugs
+- [Testing](#testing)
+  - [User Stories](#user-stories) 
+  - [Owner Goals](#owner-goals)
+  - [Lighthouse Testing](#lighthouse-testing)
+  - [HTML and CSS Testing](#html-and-css-testing)
+  - [Known Bugs](#known-bugs)
 
-- Deployment
+- [Deployment](#deployment)
 
-- Credits
+- [Credits](credits)
 
 ## User Experience 
 
