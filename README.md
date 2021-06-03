@@ -22,7 +22,6 @@ I want to create a website for fans and potential fans of my brothers band Me an
 
 - Testing
   - Testing User Stories and Site Goals
-  - Responsive Testing 
   - Lighthouse Testing
   - HTML and CSS Testing
   - Known Bugs
@@ -159,55 +158,95 @@ Am I Responsive was used for the Image at the top of the readme.
 
 **As a first time visitor, I want to easily understand main purpose of the site.** 
 
-As you enter the site on the Jumbotron there is a clear image of the band.  you can tell that they are a band as one of them is holding a guitar and overlaying this there is a preorder now button. 
+- As you enter the site on the Jumbotron there is a clear image of the band.  you can tell that they are a band as one of them is holding a guitar and overlaying this there is a preorder now button. 
 
 **As a first time visitor, I want to be able to easily navigate through the site and find the content I need.**
 
-There is a nav menu at the top of all pages making it easy to navigete.  The bands logo in the top left corner will also link you back to the homepage.
+- There is a nav menu at the top of all pages making it easy to navigete.  The bands logo in the top left corner will also link you back to the homepage.
 
 **As a first time visitor, I want the site to be visually apealing.**
 
-I have asked friends family and members on slack about the site and overall the response to the site was very good. With a consistent colour scheme and high quality pictures too.
+- I have asked friends family and members on slack about the site and overall the response to the site was very good. With a consistent colour scheme and high quality pictures too.
 
 **As a first time visitor, I expect the site to be responsive so that I can view it on any device type.**
-I have tested the site on multiple devices and everything responds well.  I have also sent the site to friends and family asking them to find any thing.
+
+- I have tested the site on multiple devices and everything responds well.  I have also sent the site to friends and family asking them to find any thing.
 
 **As a first time visitor, I want to be able to tell who the band are and decide if i might like them.**
 
-There is an about section to the site which tells you more about the band and also embededvideos to listen to the music to help decide if you might like the band.
+- There is an about section to the site which tells you more about the band and also embededvideos to listen to the music to help decide if you might like the band.
 
 ### Returning Visitor Goals
 
 **As a returning visitor, I want to be able to see the latest music or video content that the band has released.**
 
-You can see the latest videos on the home screen where they are also promoting the latest EP that is comig out.
+- You can see the latest videos on the home screen where they are also promoting the latest EP that is comig out.
 
 **As a returning visitor, I want to be able to see where and when the band are playing so that I can book tickets.**
 
-There is a tickets page where you can see all the latest shows and will be sent to where you can buy them from.
+- There is a tickets page where you can see all the latest shows and will be sent to where you can buy them from.
 
 **As a returning visitor, I would like to find out more information about the members and history of the band.**
 
+- There is an about section on the band where you can find out more information about the band.
+
 **As a returning visitor, I would like to see any social media accounts the band has so that I can follow them there.**
 
+- In the footer there are social media links which will send you through to all of their various social media accounts. These will all open up in new tabs.
+
 **As a returning visitor, I would like to see any pictures of the of the band.**
+
+- there is a gallery page where you can see more pictures of the band.
 
 ### Frequent Visitor Goals.
 
 **As a frequent visitor, I want to see the latest music or video content that the band has released.**
 
+- You can see the latest videos on the home screen where they are also promoting the latest EP that is comig out.
+
 **As a frequent visitor, I would like to be kept up to date with any news about the band.**
+
+- There is a mailing list subscription button at the bottom of each page where you can sign up for the latest news.
 
 **As a frequent visitor, I would like to be able to contact the band for any gigs or events.**
 
+- There is an email address at the bottom of the page.  When clicked the it will open up a new blank email with a subject of contact.
 ### Owner Goals
+
 **I want the site to clearly promote the band.**
+
+- The site clearly promotes who the band is with their logo being at the top of each page.
+
 **I want users to easily find links to social media accounts.**
+
+- In the footer there are social media links which will send you through to all of their various social media accounts. These will all open up in new tabs.
+
 **I want the user to easily be able to find when and where they can see the band live.**
+
+- There is the tickets page. there they can see the next events that the band will be playing at and where the closest one to them will be. 
+
 **I want to promote the latest videos of the band.**
+
+- The first thing that the user will see after the hero image will be videos of the band. 
+
 **I want the site to be responsive and easy to navigate.**
+
+The site is easily navigated by the nav bar at the top of each page.  The site is responsive across all device types by using bootstrap.
+
 **I want the site to be attractive.**
+
+- I have asked friends family and members on slack about the site and overall the response to the site was very good. With a consistent colour scheme and high quality pictures too.
+
 **I want users to easily be able to contact the band.**
+
+- There is an email address at the bottom of the page.  When clicked the it will open up a new blank email with a subject of contact.
+
+
+### Lighthouse Testing
+
+Lighthouse testing seemed to vary quite a lot depending on the time of day. I think this may be to do with the internet conection that I have isn't the most reliable and can change drastically. On most of the pages I got quite good performance scores.
+<img src="assets/readmeimages/performance-scores.png" height="75px" width="150px">
+
 
 ### HTML and CSS Testing
 
