@@ -63,13 +63,13 @@ body{
     filter:invert(1);
     height: 100px;
     width: 140px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     margin-top: 50px;
 
 }
 
 .preorder-btn{
-    margin-top: 50px;
+    margin-top: 35px;
     justify-content: center;
     background-color: #8A7A72;
     border-color: #8A7A72;
