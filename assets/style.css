@@ -63,7 +63,9 @@ body{
 .mini-logo{
     filter:invert(1);
     height: 100px;
+    width:100px;
     margin-bottom: 75px;
+
 }
 
 .preorder-btn{
@@ -116,8 +118,6 @@ body{
 .store-container{
     display: flex;
 }
-
-
 
 .store-img{
     width: 25%;
