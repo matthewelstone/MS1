@@ -64,16 +64,24 @@ body{
     height: 100px;
     width: 140px;
     margin-bottom: 30px;
-    margin-top: 50px;
-
+    
 }
 
 .preorder-btn{
-    margin-top: 35px;
+    margin-top: 40px;
     justify-content: center;
     background-color: #8A7A72;
     border-color: #8A7A72;
     color: #FFF3ED;
+}
+@media (max-width:400px) {
+    .preorder-btn{
+        margin-top: 20px;
+    }
+    .mini-logo{
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
 }
 
 .preorder-btn:hover,
