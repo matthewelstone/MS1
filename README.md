@@ -16,7 +16,7 @@ I want to create a website for fans and potential fans of my brothers band Me an
 - Features
    
   - Current Features
-  - Features which i want to implement in the future
+  - Features which I want to implement in the future
 
 - Technologies Used
 
@@ -246,7 +246,7 @@ The site is easily navigated by the nav bar at the top of each page.  The site i
 
 Lighthouse testing seemed to vary quite a lot depending on the time of day. I think this may be to do with the internet conection that I have isn't the most reliable and can change drastically. On most of the pages I got quite good performance scores.
 <img src="assets/readmeimages/performance-scores.png" height="75px" width="150px">
-
+However Some of the images that I am using are too big.  I have tried to reduce the size of these images and they arent getting any smaller.  These were huge pictures which I recieved from the band but right now I dont think I have the knowledge to make them smaller and improve the score.  
 
 ### HTML and CSS Testing
 
@@ -265,4 +265,6 @@ To test my CSS I used the [W3C CSS Validator](https://jigsaw.w3.org/css-validato
 My CSS was also mostly fine. I only needed to get rid of a couple of lines of code which weren't correct. 
 <img src="assets/readmeimages/css-validation.png" width="700" height="300">
 
+### Known Bugs
 
+There is a slight overflow problem on the index page where there is about 15px of empty space on the right.  I believe that this is caused by the div containig the 
