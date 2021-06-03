@@ -247,7 +247,9 @@ The site is easily navigated by the nav bar at the top of each page.  The site i
 ### Lighthouse Testing
 
 Lighthouse testing seemed to vary quite a lot depending on the time of day. I think this may be to do with the internet conection that I have isn't the most reliable and can change drastically. On most of the pages I got quite good performance scores.
+
 <img src="assets/readmeimages/performance-scores.png" height="75px" width="150px">
+
 However Some of the images that I am using are too big.  I have tried to reduce the size of these images and they arent getting any smaller.  These were huge pictures which I recieved from the band but right now I dont think I have the knowledge to make them smaller and improve the score.  
 
 ### HTML and CSS Testing
@@ -269,4 +271,54 @@ My CSS was also mostly fine. I only needed to get rid of a couple of lines of co
 
 ### Known Bugs
 
-There is a slight overflow problem on the index page where there is about 15px of empty space on the right.  I believe that this is caused by the div containig the 
+- There is a slight overflow problem on the index page where there is about 15px of empty space on the right.  I believe that this is caused by the div containig the second embedded youtube video. 
+I have tried applying overflow:hidden to several different elements but it hasn't worked. 
+
+- There is the lighthouse performance which I mentioned above.  The pictures that I am using are too big and the file size needs to be much smaller.  
+
+### Deployment
+
+- Creation
+
+I first created this repository by doing the following.
+
+1. Logging into GitHub and clicking the green New button in the top right corner of the screen. 
+2. I then created a new repository using the Code-Institute-Org/gitpod-full-template and used the repository name MeAndTheMoon I then clicked create repository. 
+3. I already had downloaded the Gitpod chrome plugin so then clicked the green Gitpod button on the repository where i could start writing the code for the site. 
+
+### Github Pages
+
+I deployed the site by using GitHub Pages by doing the following.
+
+1. Logging into Github and apening the MeAndTheMoon Repository. 
+2. Opening settings on the right hand side of the screen. 
+3. Scrolling all the way down to the gitHub Pages section.
+4. Choosing the Master branch and Root folder.
+5. After a few minutes my site was published at https://matthewelstone.github.io/MeAndTheMoon/
+
+### Forking the Repository
+
+to fork the repository to contribute to the project you can do the following.
+1. Log in to GitHub and open the MeAndTheMoon repository. 
+2. At the top right of the page underneath your profile there is a fork symbol. 
+3. Once you have clicked that the repository will be forked.
+
+### Cloning the Repository
+
+If you want to clone the repository you can do the following. 
+1. Go to [my account](https://github.com/matthewelstone)and sellect the MeAndTheMoon Repository
+2. Next door to the Gitpod button (if you have git pod installed) or in the top right click the Code button.
+3. Click download zip.
+4. You can then open the repository with your chosen code editor.
+
+### Credits
+
+- [Bootstrap](https://getbootstrap.com/) was used throughout the site to help style the pages and to make the site responsive.
+- [YouTube](https://www.youtube.com/) code was used from YouTubeto embed videos on the site.
+-[Harvey Gorst](https://harveygorst.com/), [Sophia Carey](https://www.sophiacarey.co.uk/),[Context Films](https://www.contextfilms.co/), Jonathan Elstone and Tamara Grzegorzek Were the photographers who took all of the pictures for the site.
+
+### Achnowledgements
+- Code Institute.
+- My mentor Akshat Garg.
+- W3 Schools for various articles.
+- Mini Feb team 2021 For help with feedback through the last few months.
